@@ -51,8 +51,8 @@ public class LogMessage{
 			}
 			
 		} else {
-				//System.out.println("What the fuck");
-				//System.out.println(messageInput);
+				System.out.println("What the fuck");
+				System.out.println(messageInput);
 				content = messageInput;
 			
 		}
